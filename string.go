@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -12,4 +12,4 @@ func main() {
 	fmt.Println(strings.ToUpper("Muhammad Tangguh Riyadi"))
 	fmt.Println(strings.Trim("   Muhammad Tangguh Riyadi   ", " "))
 	fmt.Println(strings.ReplaceAll("eko eko eko eko eko tangguh", "eko", "tangguh"))
-}
+} */
