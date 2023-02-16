@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"flag"
@@ -16,3 +16,4 @@ func main() {
 	fmt.Println("username", *username)
 	fmt.Println("password", *password)
 }
+*/
