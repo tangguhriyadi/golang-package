@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -24,4 +24,4 @@ func main() {
 	val := strconv.FormatInt(1000000, 10) // 10 decimal 8 octal 16 hexadecimal
 	fmt.Println(val)
 
-}
+} */
