@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -23,4 +23,4 @@ func main() {
 	layout := "2006-01-02"
 	parse, _ := time.Parse(layout, "2020-10-01")
 	fmt.Println(parse)
-}
+} */
