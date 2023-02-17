@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"container/list"
@@ -15,11 +15,12 @@ func main() {
 	fmt.Println(data.Front().Next().Value)
 	fmt.Println(data.Back().Value)
 
-	/* for element := data.Front(); element != nil; element = element.Next() {
+	for element := data.Front(); element != nil; element = element.Next() {
 		fmt.Println(element.Value)
-	} */
+	}
 	for element := data.Back(); element != nil; element = element.Prev() {
 		fmt.Println(element.Value)
 	}
 
 }
+*/
