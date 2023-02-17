@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"container/ring"
@@ -17,4 +17,4 @@ func main() {
 	data.Do(func(value interface{}) {
 		fmt.Println(value)
 	})
-}
+} */
