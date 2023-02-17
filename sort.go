@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -33,4 +33,4 @@ func main() {
 	sort.Sort(UserSlice(users))
 
 	fmt.Println(users)
-}
+} */
